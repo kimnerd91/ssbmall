@@ -71,7 +71,7 @@ export default {
         {
           url: "/",
           img:
-            tlop1,
+            "https://i.pinimg.com/736x/75/e1/ae/75e1ae2b0b45002dda13f871d752ab5e.jpg",
         },
         {
           url: "/",
